@@ -13,6 +13,7 @@ Clonar repositorio
 
 ```sh
 git clone https://github.com/ivanhuanca/laravel-crud.git
+cd laravel-crud
 ```
 
 Instalar dependencias
