@@ -11,7 +11,9 @@
 
 Clonar repositorio
 
-```git clone https://github.com/ivanhuanca/laravel-crud.git```
+```sh
+git clone https://github.com/ivanhuanca/laravel-crud.git
+```
 
 ## License
 
