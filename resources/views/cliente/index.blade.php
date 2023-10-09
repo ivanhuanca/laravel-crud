@@ -36,7 +36,7 @@
                                     <tr>
                                         <th>No</th>
                                         
-										<th>Name</th>
+										<th>{{ __('Name') }}</th>
 										<th>Email</th>
 
                                         <th></th>
