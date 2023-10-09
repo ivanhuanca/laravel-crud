@@ -13,13 +13,20 @@ Clonar repositorio
 
 ```sh
 git clone https://github.com/ivanhuanca/laravel-crud.git
-cd laravel-crud
+cd laravel crud
+copy .env.example .env
 ```
 
 Instalar dependencias
 
 ```sh
 composer install
+```
+
+Arrancar migraciones y seeders (Crear una BD local llamada "crud")
+
+```sh
+php artisan migrate --seed
 ```
 
 Iniciar servidor para los assets
@@ -33,6 +40,18 @@ En una terminal diferente
 
 ```sh
 php artisan serve
+```
+
+Accesos:
+
+Email
+```sh
+ivandhp@gmail.com
+```
+
+Password
+```sh
+password
 ```
 
 ## License
