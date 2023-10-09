@@ -15,6 +15,28 @@ Clonar repositorio
 git clone https://github.com/ivanhuanca/laravel-crud.git
 ```
 
+Instalar dependencias
+
+```sh
+composer install
+php artisan serve
+npm install
+npm run dev
+```
+
+Iniciar servidor para los assets
+
+```sh
+npm install
+npm run dev
+```
+
+En una terminal diferente
+
+```sh
+php artisan serve
+```
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
