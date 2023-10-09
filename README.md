@@ -19,9 +19,6 @@ Instalar dependencias
 
 ```sh
 composer install
-php artisan serve
-npm install
-npm run dev
 ```
 
 Iniciar servidor para los assets
